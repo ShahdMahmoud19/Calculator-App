@@ -1,4 +1,4 @@
-import 'package:calc_app_task/myapp.dart';
+import 'package:calc_app_task/my_app.dart';
 import 'package:flutter/material.dart';
 
 void main() {
